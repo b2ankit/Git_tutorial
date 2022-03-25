@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+void display(void)
+{
+    printf("Hello Github");
+}
+
 int main()
 {
     printf("Hello world");
